@@ -13,14 +13,14 @@
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/hamxaa-saleem)
 ![GitHub User's stars](https://img.shields.io/github/stars/hamxaa-saleem?affiliations=OWNER&style=social)
 
-<!-- Abouy Me -->
+<!-- About Me -->
 -  I’m a <code>Software Engineer</code> and <code>Freelancer</code>
 -  Ask me about <code>Software Engineering</code>
 -  Fun fact: You can call me <code>Mr Bugz</code>
 -  Reach me out at <a href="mailto:hamxasaleem310@gmail.com">hamxasaleem310@gmail.com</a>
 
 <!-- Social Links -->
-## <img src="./Images/Gifs/Contact.gif" align="center" width="35"/> Contact with me
+## <img src="./Images/Gifs/Contact.gif" align="center" width="36"/> Contact with me
 <p align="left">
 <a href="https://linkedin.com/in/hamxaa-saleem" target="blank"><img src="./Images/Icons/LinkedIn.svg" alt="Linkedin" height="44" width="44" /></a>
 <a href="https://x.com/hamxaa__saleem" target="blank"><img src="./Images/Icons/Twitter.svg" alt="Twitter" height="44" width="44" /></a>
@@ -30,7 +30,7 @@
 </p>
 
 <!-- Tech Stack -->
-## <img src="./Images/Gifs/Brackets.gif" align="center" width="35"/> Languages and Tools
+## <img src="./Images/Gifs/Brackets.gif" align="center" width="36"/> Languages and Tools
 <p align="left"> 
 <a><img src="./Images/Icons/HTML.svg" alt="HTML" width="44" height="44"/></a>
 <a><img src="./Images/Icons/CSS.svg" alt="CSS" width="44" height="44"/></a>
@@ -62,7 +62,7 @@
 </div>
 
 <!-- Github Stats -->
-## Github Stats
+## <img src="./Images/Gifs/Stats.gif" align="center" width="36"/> Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamxaa-saleem&show_icons=true&locale=en&theme=tokyonight&card_width=350px" alt="hamxaa-saleem" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamxaa-saleem&&theme=tokyonight&card_width=380px" alt="hamxaa-saleem" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamxaa-saleem&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=435px" alt="hamxaa-saleem" /></p>
