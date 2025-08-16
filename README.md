@@ -61,12 +61,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" width="100%" alt="Snake animation" />
 </div>
 
-<!-- Github Trophies -->
-## Github Awards
-<p>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamxaa-saleem&theme=tokyonight&margin-w=5" alt="hamxaa-saleem" /></a>
-</p>
-
 <!-- Github Stats -->
 ## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamxaa-saleem&show_icons=true&locale=en&theme=tokyonight&card_width=350px" alt="hamxaa-saleem" /></p>
