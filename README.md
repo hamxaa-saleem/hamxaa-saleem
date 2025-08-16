@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- Main Heading -->
+<h1 id="top">Hey, I'm Hamza Saleem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**hamxaa-saleem/hamxaa-saleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Side Image -->
+<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/hamxaa-saleem/hamxaa-saleem/refs/heads/main/Images/Main/side-image.gif">
 
-Here are some ideas to get you started:
+<!-- Typing Amination -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=24&pause=1000&color=669AC9&width=250&lines=Software+Engineer;Full+Stack+Developer;Freelancer" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Stats -->
+![](https://komarev.com/ghpvc/?username=hamxaa-saleem&abbreviated=true&color=lightgrey)
+![GitHub followers](https://img.shields.io/github/followers/hamxaa-saleem?label=Follow&style=social)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/hamxaa-saleem)
+![GitHub User's stars](https://img.shields.io/github/stars/hamxaa-saleem?affiliations=OWNER&style=social)
+
+<!-- Abouy Me -->
+-  I’m a <code>Software Engineer</code> and <code>Freelancer</code>
+-  Ask me about <code>Software Engineering</code>
+-  Fun fact: You can call me <code>Mr Bugz</code>
+-  Reach me out at <a href="mailto:hamxasaleem310@gmail.com">hamxasaleem310@gmail.com</a>
+
+<!-- Social Links -->
+## Contact with me
+<p align="left">
+<a href="https://linkedin.com/in/hamxaa-saleem" target="blank"><img src="./Images/Icons/LinkedIn.svg" alt="Linkedin" height="44" width="44" /></a>
+<a href="https://x.com/hamxaa__saleem" target="blank"><img src="./Images/Icons/Twitter.svg" alt="Twitter" height="44" width="44" /></a>
+<a href="https://medium.com/@hamxaa__saleem" target="blank"><img src="./Images/Icons/Medium.svg" alt="Medium" height="44" width="44" /></a>
+<a href="https://Instagram.com/hamxaa__saleem" target="blank"><img src="./Images/Icons/Instagram.svg" alt="Instagram" height="44" width="44" /></a>
+<a href="https://dev.to/hamxaa__saleem" target="blank"><img src="./Images/Icons/DevTo.svg" alt="DevTo" height="44" width="44" /></a>
+</p>
+
+<!-- Tech Stack -->
+## Languages and Tools
+<p align="left"> 
+<a><img src="./Images/Icons/HTML.svg" alt="HTML" width="44" height="44"/></a>
+<a><img src="./Images/Icons/CSS.svg" alt="CSS" width="44" height="44"/></a>
+<a><img src="./Images/Icons/JavaScript.svg" alt="JavaScript" width="44" height="44"/></a>
+<a><img src="./Images/Icons/React.svg" alt="React" width="44" height="44"/></a>
+<a><img src="./Images/Icons/Python.svg" alt="Python" width="44" height="44"/></a>
+<a><img src="./Images/Icons/VueJS.svg" alt="VueJS" width="44" height="44"/></a>
+<a><img src="./Images/Icons/Tailwind.svg" alt="Tailwind Css" width="44" height="44"/></a>
+<a><img src="./Images/Icons/CPP.svg" alt="C++" width="44" height="44"/></a>
+<a><img src="./Images/Icons/NodeJS.svg" alt="NodeJS" width="44" height="44"/></a>
+<a><img src="./Images/Icons/TypeScript.svg" alt="TypeScript" width="44" height="44"/></a>
+<a><img src="./Images/Icons/ExpressJS.svg" alt="ExpressJS" width="44" height="44"/></a>
+<a><img src="./Images/Icons/Java.svg" alt="Java" width="44" height="44"/></a>
+<a><img src="./Images/Icons/AWS.svg" alt="AWS" width="44" height="44"/></a>
+<a><img src="./Images/Icons/Azure.svg" alt="Azure" width="44" height="44"/></a>
+<a><img src="./Images/Icons/VSCode.svg" alt="VSCode" width="44" height="44"/></a>
+<a><img src="./Images/Icons/Github.svg" alt="Github" width="44" height="44"/></a>
+<a><img src="./Images/Icons/Git.svg" alt="Git" width="44" height="44"/></a>
+<a><img src="./Images/Icons/GitLab.svg" alt="GitLab" width="44" height="44"/></a>
+<a><img src="./Images/Icons/Figma.svg" alt="Figma" width="44" height="44"/></a>
+<a><img src="./Images/Icons/Notion.svg" alt="Notion" width="44" height="44"/></a>
+<a><img src="./Images/Icons/Windows.svg" alt="Windows" width="44" height="44"/></a>
+<a><img src="./Images/Icons/Linux.svg" alt="Linux" width="44" height="44"/></a>
+</p>
+
+<!-- Github Stats -->
+## Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamxaa-saleem&show_icons=true&locale=en&theme=tokyonight&card_width=350px" alt="hamxaa-saleem" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamxaa-saleem&&theme=tokyonight&card_width=380px" alt="hamxaa-saleem" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamxaa-saleem&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=435px" alt="hamxaa-saleem" /></p><br><br><br><br>
