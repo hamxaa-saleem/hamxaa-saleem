@@ -56,6 +56,11 @@
 <a><img src="./Images/Icons/Linux.svg" alt="Linux" width="44" height="44"/></a>
 </p>
 
+<!-- Snake Animation -->
+<div>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" width="100%" alt="Snake animation" />
+</div>
+
 <!-- Github Stats -->
 ## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamxaa-saleem&show_icons=true&locale=en&theme=tokyonight&card_width=350px" alt="hamxaa-saleem" /></p>
