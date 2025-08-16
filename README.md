@@ -20,7 +20,7 @@
 -  Reach me out at <a href="mailto:hamxasaleem310@gmail.com">hamxasaleem310@gmail.com</a>
 
 <!-- Social Links -->
-## Contact with me
+## <img src="./Images/Gifs/Contact.gif" align="center" width="35"/> Contact with me
 <p align="left">
 <a href="https://linkedin.com/in/hamxaa-saleem" target="blank"><img src="./Images/Icons/LinkedIn.svg" alt="Linkedin" height="44" width="44" /></a>
 <a href="https://x.com/hamxaa__saleem" target="blank"><img src="./Images/Icons/Twitter.svg" alt="Twitter" height="44" width="44" /></a>
@@ -30,7 +30,7 @@
 </p>
 
 <!-- Tech Stack -->
-## Languages and Tools
+## <img src="./Images/Gifs/Brackets.gif" align="center" width="35"/> Languages and Tools
 <p align="left"> 
 <a><img src="./Images/Icons/HTML.svg" alt="HTML" width="44" height="44"/></a>
 <a><img src="./Images/Icons/CSS.svg" alt="CSS" width="44" height="44"/></a>
