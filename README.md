@@ -65,10 +65,10 @@
 ## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamxaa-saleem&show_icons=true&locale=en&theme=tokyonight&card_width=350px" alt="hamxaa-saleem" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamxaa-saleem&&theme=tokyonight&card_width=380px" alt="hamxaa-saleem" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamxaa-saleem&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=435px" alt="hamxaa-saleem" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamxaa-saleem&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=435px" alt="hamxaa-saleem" /></p><br><br><br><br>
 
 <!-- Github Trophies -->
-## GitHub Awards
+## Github Awards
 <p>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamxaa-saleem&theme=tokyonight&margin-w=5" alt="hamxaa-saleem" /></a>
 </p>
