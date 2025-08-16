@@ -1,11 +1,18 @@
 <!-- Main Heading -->
 <h1 id="top">Hey, I'm Hamza Saleem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<!-- End Main Heading -->
+
 <!-- Side Image -->
 <img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/hamxaa-saleem/hamxaa-saleem/refs/heads/main/Images/Main/side-image.gif">
 
+<!-- End Side Image -->
+
 <!-- Typing Amination -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=24&pause=1000&color=669AC9&width=250&lines=Software+Engineer;Full+Stack+Developer;Freelancer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=24&pause=1000&color=669AC9&width=250&lines=Software+Engineer;Full+Stack+Developer;Freelancer" alt="Typing SVG" />
+</a>
+
+<!-- End Typing Amination -->
 
 <!-- Stats -->
 ![](https://komarev.com/ghpvc/?username=hamxaa-saleem&abbreviated=true&color=lightgrey)
@@ -13,14 +20,18 @@
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/hamxaa-saleem)
 ![GitHub User's stars](https://img.shields.io/github/stars/hamxaa-saleem?affiliations=OWNER&style=social)
 
+<!-- End Stats -->
+
 <!-- About Me -->
 -  I’m a <code>Software Engineer</code> and <code>Freelancer</code>
 -  Ask me about <code>Software Engineering</code>
 -  Fun fact: You can call me <code>Mr Bugz</code>
 -  Reach me out at <a href="mailto:hamxasaleem310@gmail.com">hamxasaleem310@gmail.com</a>
 
+<!-- End About Me -->
+
 <!-- Social Links -->
-## <img src="./Images/Gifs/Contact.gif" align="center" width="36"/> Contact with me
+## <img src="./Images/Gifs/Contact.gif" align="center" width="35"/> Contact with me
 <p align="left">
 <a href="https://linkedin.com/in/hamxaa-saleem" target="blank"><img src="./Images/Icons/LinkedIn.svg" alt="Linkedin" height="44" width="44" /></a>
 <a href="https://x.com/hamxaa__saleem" target="blank"><img src="./Images/Icons/Twitter.svg" alt="Twitter" height="44" width="44" /></a>
@@ -29,8 +40,10 @@
 <a href="https://dev.to/hamxaa__saleem" target="blank"><img src="./Images/Icons/DevTo.svg" alt="DevTo" height="44" width="44" /></a>
 </p>
 
+<!-- End Social Links -->
+
 <!-- Tech Stack -->
-## <img src="./Images/Gifs/Brackets.gif" align="center" width="36"/> Languages and Tools
+## <img src="./Images/Gifs/Brackets.gif" align="center" width="35"/> Languages and Tools
 <p align="left"> 
 <a><img src="./Images/Icons/HTML.svg" alt="HTML" width="44" height="44"/></a>
 <a><img src="./Images/Icons/CSS.svg" alt="CSS" width="44" height="44"/></a>
@@ -56,19 +69,33 @@
 <a><img src="./Images/Icons/Linux.svg" alt="Linux" width="44" height="44"/></a>
 </p>
 
+<!-- End Tech Stack -->
+
 <!-- Snake Animation -->
  <div>
   <img src="https://profile-readme-generator.com/assets/snake.svg" width="100%" alt="Snake animation" />
 </div>
 
+<!-- End Snake Animation -->
+
 <!-- Github Trophy -->
-## <img src="./Images/Gifs/Award.gif" align="center" width="36"/> GitHub Trophy
+## <img src="./Images/Gifs/Award.gif" align="center" width="35"/> GitHub Trophy
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=hamxaa-saleem&theme=tokyonight&margin-w=5" alt="hamxaa-saleem" />
 </a>
 
+<!-- End Github Trophy -->
+
 <!-- Github Stats -->
-## <img src="./Images/Gifs/Stats.gif" align="center" width="36"/> Github Stats
+## <img src="./Images/Gifs/Stats.gif" align="center" width="35"/> Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamxaa-saleem&show_icons=true&locale=en&theme=tokyonight&card_width=350px" alt="hamxaa-saleem" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamxaa-saleem&&theme=tokyonight&card_width=380px" alt="hamxaa-saleem" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamxaa-saleem&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=435px" alt="hamxaa-saleem" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamxaa-saleem&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=435px" alt="hamxaa-saleem" /></p><br><br><br><br><br>
+
+<!-- End Github Stats -->
+
+<!-- Thanks -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=24&pause=1000&color=669AC9&width=330&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
+</a>
+</div>
