@@ -2,7 +2,7 @@
 <h1 align="left">Hey, I'm Hamza Saleem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- Side Image -->
-<img align="right" alt="Coding Animation" height="400" src="https://raw.githubusercontent.com/hamxaa-saleem/hamxaa-saleem/refs/heads/main/Images/Main/side-image2.webp">
+<img align="right" alt="Coding Animation" height="300" src="https://raw.githubusercontent.com/hamxaa-saleem/hamxaa-saleem/refs/heads/main/Images/Main/side-image2.webp">
 <!-- <img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/hamxaa-saleem/hamxaa-saleem/refs/heads/main/Images/Main/side-image.gif"> -->
 
 <!-- Typing Amination -->
