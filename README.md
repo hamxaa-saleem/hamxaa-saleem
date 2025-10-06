@@ -1,10 +1,9 @@
 <img alt="Hello World" src="https://raw.githubusercontent.com/hamxaa-saleem/hamxaa-saleem/refs/heads/main/Images/Main/header.webp">
 <!-- Main Heading -->
-<h1 align="center">I'm Hamza Saleem</h1>
+<h1 align="center">I'm Hamza Saleem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- Side Image -->
-<img align="right" alt="Coding Animation" height="350" src="https://raw.githubusercontent.com/hamxaa-saleem/hamxaa-saleem/refs/heads/main/Images/Main/side-image2.webp">
-<!-- <img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/hamxaa-saleem/hamxaa-saleem/refs/heads/main/Images/Main/side-image.gif"> -->
+<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/hamxaa-saleem/hamxaa-saleem/refs/heads/main/Images/Main/side-image.gif">
 
 <!-- Typing Amination -->
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=24&pause=1000&color=669AC9&width=250&lines=Software+Engineer;Full+Stack+Developer;Freelancer" alt="Typing SVG" />
