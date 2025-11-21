@@ -73,5 +73,5 @@
 <!-- Github Stats -->
 ## <img src="./Images/Gifs/Stats.gif" align="center" width="35"/> Github Stats
 <span><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamxaa-saleem&show_icons=true&locale=en&theme=tokyonight&card_width=350px" alt="hamxaa-saleem" /></span>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamxaa-saleem&&theme=tokyonight&card_width=380px" alt="hamxaa-saleem" /></span>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamxaa-saleem&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=435px" alt="hamxaa-saleem" />
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamxaa-saleem&&theme=tokyonight&card_width=385px" alt="hamxaa-saleem" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamxaa-saleem&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=435px" alt="hamxaa-saleem" /></span>
