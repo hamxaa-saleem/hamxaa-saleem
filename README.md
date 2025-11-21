@@ -23,7 +23,7 @@
 
 
 <!-- Social Links -->
-## <img src="./Images/Gifs/Contact.gif" align="center" width="35"/> Contact with me
+## <img src="./Images/Gifs/Contact.gif" align="center" width="35"/> Let's Connect
 <p align="left">
 <a href="https://linkedin.com/in/hamxaa-saleem" target="blank"><img src="./Images/Icons/LinkedIn.svg" alt="Linkedin" height="44" width="44" /></a>
 <a href="https://x.com/hamxaa__saleem" target="blank"><img src="./Images/Icons/Twitter.svg" alt="Twitter" height="44" width="44" /></a>
@@ -72,6 +72,6 @@
 
 <!-- Github Stats -->
 ## <img src="./Images/Gifs/Stats.gif" align="center" width="35"/> Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamxaa-saleem&show_icons=true&locale=en&theme=tokyonight&card_width=350px" alt="hamxaa-saleem" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamxaa-saleem&&theme=tokyonight&card_width=380px" alt="hamxaa-saleem" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamxaa-saleem&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=435px" alt="hamxaa-saleem" /></p>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api?username=hamxaa-saleem&show_icons=true&locale=en&theme=tokyonight&card_width=350px" alt="hamxaa-saleem" /></span>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamxaa-saleem&&theme=tokyonight&card_width=380px" alt="hamxaa-saleem" /></span>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamxaa-saleem&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=435px" alt="hamxaa-saleem" /></span>
