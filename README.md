@@ -5,7 +5,7 @@
 <img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/hamxaa-saleem/hamxaa-saleem/refs/heads/main/Images/Main/side-image.gif">
 
 <!-- Typing Amination -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=24&pause=1000&color=669AC9&width=250&lines=Software+Engineer;Full+Stack+Developer;Freelancer" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=24&pause=1000&color=669AC9&width=250&lines=Software+Engineer;Full+Stack+Developer;" alt="Typing SVG" />
 </a>
 
 <!-- Stats -->
@@ -16,7 +16,7 @@
 
 
 <!-- About Me -->
--  I’m a <code>Software Engineer</code> and <code>Freelancer</code>
+-  I’m a <code>Software Engineer</code>
 -  Ask me about <code>Software Engineering</code>
 -  Fun fact: You can call me <code>Mr Bugz</code>
 -  Reach me out at <a href="mailto:hamxasaleem310@gmail.com">hamxasaleem310@gmail.com</a>
